@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{DDB0F4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cashbook.wpf", "cashbook.wpf\cashbook.wpf.csproj", "{34BB4149-303C-4422-AACD-2AB30673FD32}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{907DFC22-D902-463A-B534-FD03AC4B4F7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -115,5 +117,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F47DF950-4165-4677-9D7C-E63FA29556D0} = {907DFC22-D902-463A-B534-FD03AC4B4F7B}
+		{1220719E-5C4F-4B26-AC1A-C324F7709F59} = {907DFC22-D902-463A-B534-FD03AC4B4F7B}
 	EndGlobalSection
 EndGlobal
