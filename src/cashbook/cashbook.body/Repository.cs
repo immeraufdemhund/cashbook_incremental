@@ -1,9 +1,9 @@
-using System;
-using System.Linq;
+using cashbook.body.data;
 using eventstore.contract;
 using eventstore.internals;
+using System;
 using System.Collections.Generic;
-using cashbook.body.data;
+using System.Linq;
 
 namespace cashbook.body
 {

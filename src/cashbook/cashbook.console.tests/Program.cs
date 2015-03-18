@@ -1,6 +1,6 @@
-﻿using System;
-using cashbook.contracts;
+﻿using cashbook.contracts;
 using cashbook.contracts.data;
+using System;
 
 namespace cashbook.console.tests
 {

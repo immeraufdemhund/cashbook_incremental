@@ -1,8 +1,7 @@
-﻿using System;
-using cashbook.body;
-using CLAP;
-using eventstore;
+﻿using cashbook.body;
 using cashbook.body.data;
+using eventstore;
+using System;
 
 namespace cashbook.console
 {

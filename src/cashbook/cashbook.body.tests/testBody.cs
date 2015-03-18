@@ -1,8 +1,7 @@
-﻿using NUnit.Framework;
+﻿using cashbook.contracts.data;
+using NUnit.Framework;
 using System;
-using cashbook.body.data;
 using System.Linq;
-using cashbook.contracts.data;
 
 namespace cashbook.body.tests
 {

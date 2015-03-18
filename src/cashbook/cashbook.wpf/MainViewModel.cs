@@ -1,14 +1,13 @@
-﻿using System;
+﻿using cashbook.contracts;
+using cashbook.contracts.data;
+using cashbook.wpf.Annotations;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 using System.Windows;
 using System.Windows.Input;
-using cashbook.body;
-using cashbook.contracts;
-using cashbook.contracts.data;
-using cashbook.wpf.Annotations;
 
 namespace cashbook.wpf
 {

@@ -1,5 +1,5 @@
-﻿using System;
-using cashbook.contracts.data;
+﻿using cashbook.contracts.data;
+using System;
 
 namespace cashbook.contracts
 {

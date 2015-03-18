@@ -1,9 +1,9 @@
-﻿using System;
-using System.Windows;
-using System.Windows.Controls;
-using cashbook.body;
+﻿using cashbook.body;
 using cashbook.body.data;
 using eventstore;
+using System;
+using System.Windows;
+using System.Windows.Controls;
 
 namespace cashbook.wpf
 {

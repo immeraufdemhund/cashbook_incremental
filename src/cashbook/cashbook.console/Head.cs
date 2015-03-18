@@ -1,9 +1,8 @@
+using cashbook.contracts;
+using cashbook.contracts.data;
+using CLAP;
 using System;
 using System.Linq;
-using cashbook.body;
-using CLAP;
-using cashbook.contracts.data;
-using cashbook.contracts;
 
 namespace cashbook.console
 {
